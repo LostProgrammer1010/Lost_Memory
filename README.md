@@ -1,2 +1,2 @@
 # Lost_Memory
-Terminal based Flash Cards
+CLI flash cards 
